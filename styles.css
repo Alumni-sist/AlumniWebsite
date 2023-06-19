@@ -34,7 +34,7 @@ header a:hover{
     background-color: #f7a63d;
 }
 .banner{
-    background: linear-gradient(rgba(0,0,0,0.4), #c4a88c) ,url(images/clg.jpg);
+    background: url(images/clg.jpg);
     background-position: center;
     background-size: cover;
     height: 100vh;
